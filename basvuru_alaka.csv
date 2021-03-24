@@ -1,0 +1,71 @@
+,Pozisyon_Sınıfı,Görüntülenen_Baş/Toplam_Baş(%),Görüntülenmeyen_Baş/Toplam_Baş(%),Görüntülenen_Baş/Toplam_Baş_2019(%),Görüntülenmeyen_Baş/Toplam_Baş_2019(%),Görüntülenen_Baş/Toplam_Baş_2020(%),Görüntülenmeyen_Baş/Toplam_Baş_2020(%)
+0,Yazılım,30,70,29,71,32,68
+1,Proje Yönetimi,13,87,13,87,13,87
+2,3D / Grafik Tasarım,28,72,26,74,30,70
+3,Arge,13,87,12,88,14,86
+4,Sistem,17,83,17,83,18,82
+5,Bilgi İşlem,15,85,14,86,15,85
+6,Bilgi Teknolojileri,16,84,16,84,17,83
+7,İş Analizi,11,89,10,90,11,89
+8,Web,38,62,35,65,43,57
+9,Yazılım Destek / Test,24,76,23,77,24,76
+10,Ürün Yönetimi,10,90,10,90,10,90
+11,İş Geliştirme,12,88,12,88,12,88
+12,ERP Çözümler,28,72,30,70,26,74
+13,SAP,16,84,15,85,17,83
+14,Analiz,11,89,11,89,10,90
+15,Ağ / Network,19,81,21,79,16,84
+16,Mobil Uygulama,33,67,32,68,34,66
+17,Veri Girişi,9,91,8,92,10,90
+18,Donanım,18,82,15,85,20,80
+19,İş Zekası,15,85,15,85,15,85
+20,Ürün Geliştirme,12,88,12,88,12,88
+21,Bilgi Sistemleri,15,85,15,85,16,84
+22,Veri Tabanı,19,81,18,82,20,80
+23,Bilgi Güvenliği,17,83,19,81,15,85
+24,Veri Yönetimi,10,90,9,91,11,89
+25,Bilişim,18,82,14,86,23,77
+26,SEO,22,78,28,72,19,81
+27,Yönetim Bilişim Sistemleri,16,84,18,82,12,88
+28,Proje Geliştirme,13,87,13,87,13,87
+29,Proje ve Teklif,25,75,21,79,33,67
+30,Laboratuvar,10,90,10,90,11,89
+31,Bayi Yönetimi,9,91,9,91,10,90
+32,İş Süreçleri Geliştirme,20,80,17,83,22,78
+33,Teknoloji Danışmanlığı,2,98,2,98,2,98
+34,Proje Tasarım,25,75,31,69,20,80
+35,Oyun,35,65,27,73,54,46
+36,Ürün Tasarımı,16,84,15,85,17,83
+37,Konfigürasyon,11,89,11,89,12,88
+38,Ürün Planlama,9,91,7,93,11,89
+39,Statik Proje Yönetimi,17,83,24,76,14,86
+40,Ürün Takip / Destek,16,84,16,84,15,85
+41,Animasyon,46,54,35,65,61,39
+42,Teknik Proje Yönetimi,29,71,23,77,51,49
+43,Kullanıcı Deneyimi,19,81,15,85,21,79
+44,Dijital Proje Yönetimi,21,79,19,81,22,78
+45,İnternet Hizmetleri,13,87,9,91,25,75
+46,Teknik,8,92,6,94,11,89
+47,Netsis,41,59,41,59,42,58
+48,İş Çözümleri,10,90,9,91,11,89
+49,Eğitim,31,69,34,66,26,74
+50,Avrupa Birliği Projeleri,24,76,27,73,15,85
+51,Teknoloji Transfer,18,82,16,84,20,80
+52,Entegrasyon,19,81,17,83,20,80
+53,Yurt Dışı / Yurt İçi Proje Yönetimi,24,76,28,72,15,85
+54,Teknik Ürün Yönetimi,10,90,6,94,14,86
+55,Bilimsel Programlar,23,77,6,94,36,64
+56,İnovasyon,14,86,17,83,9,91
+57,Lisanslama,36,64,24,76,50,50
+58,Fizibilite,27,73,58,42,15,85
+59,Validasyon,22,78,23,77,21,79
+60,Proje Bakım,11,89,11,89,11,89
+61,Ticari Proje Yönetimi,6,94,12,88,4,96
+62,Multimedya,38,62,13,87,66,34
+63,Ürün Destek,4,96,4,96,0,100
+64,Uluslararası Proje Yönetimi,3,97,1,99,3,97
+65,Portal,9,91,0,100,9,91
+66,Diğer,11,89,7,93,13,87
+67,Veri Madenciliği,5,95,4,96,5,95
+68,Oracle,5,95,5,95,0,100
+69,İnteraktif Projeler,0,100,0,100,0,100

@@ -1,0 +1,985 @@
+,Firma Sektörü,Tarih,İlan Sayısı
+0,Bilişim,2019-1,676
+1,Üretim / Endüstriyel Ürünler,2019-1,152
+2,Elektrik & Elektronik,2019-1,125
+3,Tekstil,2019-1,98
+4,Otomotiv,2019-1,135
+5,Sağlık,2019-1,107
+6,Hizmet,2019-1,117
+7,Topluluklar,2019-1,117
+8,Telekomünikasyon,2019-1,43
+9,Yapı,2019-1,74
+10,Danışmanlık,2019-1,106
+11,Kimya,2019-1,70
+12,Finans - Ekonomi,2019-1,67
+13,Ticaret,2019-1,65
+14,Diğer,2019-1,60
+15,Gıda,2019-1,36
+16,Eğitim,2019-1,39
+17,Enerji,2019-1,40
+18,Turizm,2019-1,44
+19,Taşımacılık,2019-1,36
+20,Sigortacılık,2019-1,29
+21,Reklam ve Tanıtım,2019-1,22
+22,Maden ve Metal Sanayi,2019-1,23
+23,Perakende,2019-1,38
+24,Medya,2019-1,19
+25,Basım - Yayın,2019-1,10
+26,Mobilya & Aksesuar,2019-1,18
+27,Denizcilik,2019-1,15
+28,Ev Eşyaları,2019-1,9
+29,Güvenlik,2019-1,10
+30,Havacılık,2019-1,6
+31,Tarım / Ziraat,2019-1,8
+32,Hızlı Tüketim Malları,2019-1,9
+33,Orman Ürünleri,2019-1,6
+34,Ofis / Büro Malzemeleri,2019-1,2
+35,Dayanıklı Tüketim Ürünleri,2019-1,6
+36,Hayvancılık,2019-1,1
+37,Eğlence - Kültür - Sanat,2019-1,2
+38,Atık Yönetimi ve Geri Dönüşüm,2019-1,1
+39,Çevre,2019-1,0
+40,Toplam,2019-1,2457
+41,Bilişim,2019-2,577
+42,Üretim / Endüstriyel Ürünler,2019-2,183
+43,Elektrik & Elektronik,2019-2,101
+44,Tekstil,2019-2,112
+45,Otomotiv,2019-2,91
+46,Sağlık,2019-2,83
+47,Hizmet,2019-2,104
+48,Topluluklar,2019-2,85
+49,Telekomünikasyon,2019-2,36
+50,Yapı,2019-2,91
+51,Danışmanlık,2019-2,102
+52,Kimya,2019-2,45
+53,Finans - Ekonomi,2019-2,53
+54,Ticaret,2019-2,52
+55,Diğer,2019-2,42
+56,Gıda,2019-2,38
+57,Eğitim,2019-2,42
+58,Enerji,2019-2,33
+59,Turizm,2019-2,58
+60,Taşımacılık,2019-2,46
+61,Sigortacılık,2019-2,26
+62,Reklam ve Tanıtım,2019-2,41
+63,Maden ve Metal Sanayi,2019-2,18
+64,Perakende,2019-2,23
+65,Medya,2019-2,28
+66,Basım - Yayın,2019-2,12
+67,Mobilya & Aksesuar,2019-2,11
+68,Denizcilik,2019-2,8
+69,Ev Eşyaları,2019-2,11
+70,Güvenlik,2019-2,15
+71,Havacılık,2019-2,13
+72,Tarım / Ziraat,2019-2,8
+73,Hızlı Tüketim Malları,2019-2,12
+74,Orman Ürünleri,2019-2,4
+75,Ofis / Büro Malzemeleri,2019-2,4
+76,Dayanıklı Tüketim Ürünleri,2019-2,3
+77,Hayvancılık,2019-2,1
+78,Eğlence - Kültür - Sanat,2019-2,3
+79,Atık Yönetimi ve Geri Dönüşüm,2019-2,1
+80,Çevre,2019-2,0
+81,Toplam,2019-2,2228
+82,Bilişim,2019-3,617
+83,Üretim / Endüstriyel Ürünler,2019-3,140
+84,Elektrik & Elektronik,2019-3,116
+85,Tekstil,2019-3,105
+86,Otomotiv,2019-3,140
+87,Sağlık,2019-3,103
+88,Hizmet,2019-3,97
+89,Topluluklar,2019-3,92
+90,Telekomünikasyon,2019-3,42
+91,Yapı,2019-3,78
+92,Danışmanlık,2019-3,116
+93,Kimya,2019-3,53
+94,Finans - Ekonomi,2019-3,62
+95,Ticaret,2019-3,51
+96,Diğer,2019-3,48
+97,Gıda,2019-3,56
+98,Eğitim,2019-3,47
+99,Enerji,2019-3,47
+100,Turizm,2019-3,57
+101,Taşımacılık,2019-3,31
+102,Sigortacılık,2019-3,31
+103,Reklam ve Tanıtım,2019-3,30
+104,Maden ve Metal Sanayi,2019-3,23
+105,Perakende,2019-3,31
+106,Medya,2019-3,18
+107,Basım - Yayın,2019-3,16
+108,Mobilya & Aksesuar,2019-3,12
+109,Denizcilik,2019-3,11
+110,Ev Eşyaları,2019-3,10
+111,Güvenlik,2019-3,10
+112,Havacılık,2019-3,22
+113,Tarım / Ziraat,2019-3,9
+114,Hızlı Tüketim Malları,2019-3,13
+115,Orman Ürünleri,2019-3,10
+116,Ofis / Büro Malzemeleri,2019-3,1
+117,Dayanıklı Tüketim Ürünleri,2019-3,1
+118,Hayvancılık,2019-3,0
+119,Eğlence - Kültür - Sanat,2019-3,1
+120,Atık Yönetimi ve Geri Dönüşüm,2019-3,2
+121,Çevre,2019-3,0
+122,Toplam,2019-3,2358
+123,Bilişim,2019-4,667
+124,Üretim / Endüstriyel Ürünler,2019-4,152
+125,Elektrik & Elektronik,2019-4,164
+126,Tekstil,2019-4,122
+127,Otomotiv,2019-4,123
+128,Sağlık,2019-4,76
+129,Hizmet,2019-4,93
+130,Topluluklar,2019-4,85
+131,Telekomünikasyon,2019-4,65
+132,Yapı,2019-4,76
+133,Danışmanlık,2019-4,88
+134,Kimya,2019-4,62
+135,Finans - Ekonomi,2019-4,52
+136,Ticaret,2019-4,48
+137,Diğer,2019-4,60
+138,Gıda,2019-4,45
+139,Eğitim,2019-4,47
+140,Enerji,2019-4,41
+141,Turizm,2019-4,59
+142,Taşımacılık,2019-4,50
+143,Sigortacılık,2019-4,25
+144,Reklam ve Tanıtım,2019-4,26
+145,Maden ve Metal Sanayi,2019-4,18
+146,Perakende,2019-4,30
+147,Medya,2019-4,19
+148,Basım - Yayın,2019-4,13
+149,Mobilya & Aksesuar,2019-4,9
+150,Denizcilik,2019-4,9
+151,Ev Eşyaları,2019-4,3
+152,Güvenlik,2019-4,11
+153,Havacılık,2019-4,9
+154,Tarım / Ziraat,2019-4,6
+155,Hızlı Tüketim Malları,2019-4,10
+156,Orman Ürünleri,2019-4,2
+157,Ofis / Büro Malzemeleri,2019-4,2
+158,Dayanıklı Tüketim Ürünleri,2019-4,1
+159,Hayvancılık,2019-4,1
+160,Eğlence - Kültür - Sanat,2019-4,3
+161,Atık Yönetimi ve Geri Dönüşüm,2019-4,0
+162,Çevre,2019-4,1
+163,Toplam,2019-4,2385
+164,Bilişim,2019-5,586
+165,Üretim / Endüstriyel Ürünler,2019-5,168
+166,Elektrik & Elektronik,2019-5,174
+167,Tekstil,2019-5,125
+168,Otomotiv,2019-5,117
+169,Sağlık,2019-5,102
+170,Hizmet,2019-5,84
+171,Topluluklar,2019-5,119
+172,Telekomünikasyon,2019-5,92
+173,Yapı,2019-5,76
+174,Danışmanlık,2019-5,112
+175,Kimya,2019-5,73
+176,Finans - Ekonomi,2019-5,96
+177,Ticaret,2019-5,66
+178,Diğer,2019-5,48
+179,Gıda,2019-5,68
+180,Eğitim,2019-5,39
+181,Enerji,2019-5,41
+182,Turizm,2019-5,60
+183,Taşımacılık,2019-5,60
+184,Sigortacılık,2019-5,37
+185,Reklam ve Tanıtım,2019-5,32
+186,Maden ve Metal Sanayi,2019-5,18
+187,Perakende,2019-5,27
+188,Medya,2019-5,17
+189,Basım - Yayın,2019-5,20
+190,Mobilya & Aksesuar,2019-5,10
+191,Denizcilik,2019-5,12
+192,Ev Eşyaları,2019-5,12
+193,Güvenlik,2019-5,7
+194,Havacılık,2019-5,16
+195,Tarım / Ziraat,2019-5,6
+196,Hızlı Tüketim Malları,2019-5,7
+197,Orman Ürünleri,2019-5,7
+198,Ofis / Büro Malzemeleri,2019-5,1
+199,Dayanıklı Tüketim Ürünleri,2019-5,1
+200,Hayvancılık,2019-5,3
+201,Eğlence - Kültür - Sanat,2019-5,0
+202,Atık Yönetimi ve Geri Dönüşüm,2019-5,1
+203,Çevre,2019-5,1
+204,Toplam,2019-5,2552
+205,Bilişim,2019-6,508
+206,Üretim / Endüstriyel Ürünler,2019-6,105
+207,Elektrik & Elektronik,2019-6,142
+208,Tekstil,2019-6,84
+209,Otomotiv,2019-6,92
+210,Sağlık,2019-6,68
+211,Hizmet,2019-6,60
+212,Topluluklar,2019-6,55
+213,Telekomünikasyon,2019-6,69
+214,Yapı,2019-6,80
+215,Danışmanlık,2019-6,69
+216,Kimya,2019-6,54
+217,Finans - Ekonomi,2019-6,55
+218,Ticaret,2019-6,41
+219,Diğer,2019-6,32
+220,Gıda,2019-6,42
+221,Eğitim,2019-6,34
+222,Enerji,2019-6,30
+223,Turizm,2019-6,50
+224,Taşımacılık,2019-6,33
+225,Sigortacılık,2019-6,28
+226,Reklam ve Tanıtım,2019-6,22
+227,Maden ve Metal Sanayi,2019-6,14
+228,Perakende,2019-6,25
+229,Medya,2019-6,15
+230,Basım - Yayın,2019-6,9
+231,Mobilya & Aksesuar,2019-6,8
+232,Denizcilik,2019-6,6
+233,Ev Eşyaları,2019-6,4
+234,Güvenlik,2019-6,8
+235,Havacılık,2019-6,13
+236,Tarım / Ziraat,2019-6,1
+237,Hızlı Tüketim Malları,2019-6,8
+238,Orman Ürünleri,2019-6,2
+239,Ofis / Büro Malzemeleri,2019-6,3
+240,Dayanıklı Tüketim Ürünleri,2019-6,1
+241,Hayvancılık,2019-6,0
+242,Eğlence - Kültür - Sanat,2019-6,1
+243,Atık Yönetimi ve Geri Dönüşüm,2019-6,4
+244,Çevre,2019-6,1
+245,Toplam,2019-6,1884
+246,Bilişim,2019-7,717
+247,Üretim / Endüstriyel Ürünler,2019-7,159
+248,Elektrik & Elektronik,2019-7,164
+249,Tekstil,2019-7,124
+250,Otomotiv,2019-7,153
+251,Sağlık,2019-7,103
+252,Hizmet,2019-7,106
+253,Topluluklar,2019-7,108
+254,Telekomünikasyon,2019-7,113
+255,Yapı,2019-7,95
+256,Danışmanlık,2019-7,87
+257,Kimya,2019-7,50
+258,Finans - Ekonomi,2019-7,68
+259,Ticaret,2019-7,49
+260,Diğer,2019-7,56
+261,Gıda,2019-7,59
+262,Eğitim,2019-7,51
+263,Enerji,2019-7,55
+264,Turizm,2019-7,58
+265,Taşımacılık,2019-7,39
+266,Sigortacılık,2019-7,22
+267,Reklam ve Tanıtım,2019-7,33
+268,Maden ve Metal Sanayi,2019-7,25
+269,Perakende,2019-7,27
+270,Medya,2019-7,18
+271,Basım - Yayın,2019-7,14
+272,Mobilya & Aksesuar,2019-7,11
+273,Denizcilik,2019-7,13
+274,Ev Eşyaları,2019-7,11
+275,Güvenlik,2019-7,13
+276,Havacılık,2019-7,16
+277,Tarım / Ziraat,2019-7,9
+278,Hızlı Tüketim Malları,2019-7,6
+279,Orman Ürünleri,2019-7,10
+280,Ofis / Büro Malzemeleri,2019-7,0
+281,Dayanıklı Tüketim Ürünleri,2019-7,2
+282,Hayvancılık,2019-7,0
+283,Eğlence - Kültür - Sanat,2019-7,0
+284,Atık Yönetimi ve Geri Dönüşüm,2019-7,0
+285,Çevre,2019-7,0
+286,Toplam,2019-7,2659
+287,Bilişim,2019-8,583
+288,Üretim / Endüstriyel Ürünler,2019-8,105
+289,Elektrik & Elektronik,2019-8,117
+290,Tekstil,2019-8,82
+291,Otomotiv,2019-8,100
+292,Sağlık,2019-8,85
+293,Hizmet,2019-8,77
+294,Topluluklar,2019-8,56
+295,Telekomünikasyon,2019-8,70
+296,Yapı,2019-8,61
+297,Danışmanlık,2019-8,54
+298,Kimya,2019-8,60
+299,Finans - Ekonomi,2019-8,52
+300,Ticaret,2019-8,47
+301,Diğer,2019-8,41
+302,Gıda,2019-8,51
+303,Eğitim,2019-8,41
+304,Enerji,2019-8,26
+305,Turizm,2019-8,55
+306,Taşımacılık,2019-8,34
+307,Sigortacılık,2019-8,24
+308,Reklam ve Tanıtım,2019-8,20
+309,Maden ve Metal Sanayi,2019-8,22
+310,Perakende,2019-8,26
+311,Medya,2019-8,22
+312,Basım - Yayın,2019-8,13
+313,Mobilya & Aksesuar,2019-8,10
+314,Denizcilik,2019-8,7
+315,Ev Eşyaları,2019-8,6
+316,Güvenlik,2019-8,7
+317,Havacılık,2019-8,8
+318,Tarım / Ziraat,2019-8,5
+319,Hızlı Tüketim Malları,2019-8,7
+320,Orman Ürünleri,2019-8,9
+321,Ofis / Büro Malzemeleri,2019-8,1
+322,Dayanıklı Tüketim Ürünleri,2019-8,0
+323,Hayvancılık,2019-8,1
+324,Eğlence - Kültür - Sanat,2019-8,2
+325,Atık Yönetimi ve Geri Dönüşüm,2019-8,0
+326,Çevre,2019-8,0
+327,Toplam,2019-8,1996
+328,Bilişim,2019-9,746
+329,Üretim / Endüstriyel Ürünler,2019-9,170
+330,Elektrik & Elektronik,2019-9,193
+331,Tekstil,2019-9,117
+332,Otomotiv,2019-9,118
+333,Sağlık,2019-9,115
+334,Hizmet,2019-9,79
+335,Topluluklar,2019-9,77
+336,Telekomünikasyon,2019-9,96
+337,Yapı,2019-9,81
+338,Danışmanlık,2019-9,95
+339,Kimya,2019-9,75
+340,Finans - Ekonomi,2019-9,69
+341,Ticaret,2019-9,55
+342,Diğer,2019-9,72
+343,Gıda,2019-9,48
+344,Eğitim,2019-9,61
+345,Enerji,2019-9,40
+346,Turizm,2019-9,46
+347,Taşımacılık,2019-9,44
+348,Sigortacılık,2019-9,35
+349,Reklam ve Tanıtım,2019-9,32
+350,Maden ve Metal Sanayi,2019-9,26
+351,Perakende,2019-9,37
+352,Medya,2019-9,17
+353,Basım - Yayın,2019-9,23
+354,Mobilya & Aksesuar,2019-9,11
+355,Denizcilik,2019-9,10
+356,Ev Eşyaları,2019-9,8
+357,Güvenlik,2019-9,10
+358,Havacılık,2019-9,11
+359,Tarım / Ziraat,2019-9,4
+360,Hızlı Tüketim Malları,2019-9,6
+361,Orman Ürünleri,2019-9,4
+362,Ofis / Büro Malzemeleri,2019-9,1
+363,Dayanıklı Tüketim Ürünleri,2019-9,1
+364,Hayvancılık,2019-9,1
+365,Eğlence - Kültür - Sanat,2019-9,1
+366,Atık Yönetimi ve Geri Dönüşüm,2019-9,0
+367,Çevre,2019-9,1
+368,Toplam,2019-9,2654
+369,Bilişim,2019-10,782
+370,Üretim / Endüstriyel Ürünler,2019-10,144
+371,Elektrik & Elektronik,2019-10,147
+372,Tekstil,2019-10,120
+373,Otomotiv,2019-10,128
+374,Sağlık,2019-10,126
+375,Hizmet,2019-10,109
+376,Topluluklar,2019-10,77
+377,Telekomünikasyon,2019-10,104
+378,Yapı,2019-10,91
+379,Danışmanlık,2019-10,78
+380,Kimya,2019-10,73
+381,Finans - Ekonomi,2019-10,76
+382,Ticaret,2019-10,49
+383,Diğer,2019-10,50
+384,Gıda,2019-10,51
+385,Eğitim,2019-10,35
+386,Enerji,2019-10,39
+387,Turizm,2019-10,46
+388,Taşımacılık,2019-10,39
+389,Sigortacılık,2019-10,34
+390,Reklam ve Tanıtım,2019-10,35
+391,Maden ve Metal Sanayi,2019-10,26
+392,Perakende,2019-10,17
+393,Medya,2019-10,22
+394,Basım - Yayın,2019-10,12
+395,Mobilya & Aksesuar,2019-10,26
+396,Denizcilik,2019-10,16
+397,Ev Eşyaları,2019-10,6
+398,Güvenlik,2019-10,11
+399,Havacılık,2019-10,7
+400,Tarım / Ziraat,2019-10,8
+401,Hızlı Tüketim Malları,2019-10,8
+402,Orman Ürünleri,2019-10,11
+403,Ofis / Büro Malzemeleri,2019-10,1
+404,Dayanıklı Tüketim Ürünleri,2019-10,4
+405,Hayvancılık,2019-10,1
+406,Eğlence - Kültür - Sanat,2019-10,3
+407,Atık Yönetimi ve Geri Dönüşüm,2019-10,1
+408,Çevre,2019-10,0
+409,Toplam,2019-10,2640
+410,Bilişim,2019-11,766
+411,Üretim / Endüstriyel Ürünler,2019-11,160
+412,Elektrik & Elektronik,2019-11,170
+413,Tekstil,2019-11,126
+414,Otomotiv,2019-11,147
+415,Sağlık,2019-11,133
+416,Hizmet,2019-11,98
+417,Topluluklar,2019-11,93
+418,Telekomünikasyon,2019-11,93
+419,Yapı,2019-11,96
+420,Danışmanlık,2019-11,96
+421,Kimya,2019-11,78
+422,Finans - Ekonomi,2019-11,74
+423,Ticaret,2019-11,67
+424,Diğer,2019-11,65
+425,Gıda,2019-11,53
+426,Eğitim,2019-11,42
+427,Enerji,2019-11,46
+428,Turizm,2019-11,69
+429,Taşımacılık,2019-11,49
+430,Sigortacılık,2019-11,39
+431,Reklam ve Tanıtım,2019-11,38
+432,Maden ve Metal Sanayi,2019-11,25
+433,Perakende,2019-11,31
+434,Medya,2019-11,19
+435,Basım - Yayın,2019-11,22
+436,Mobilya & Aksesuar,2019-11,17
+437,Denizcilik,2019-11,16
+438,Ev Eşyaları,2019-11,11
+439,Güvenlik,2019-11,20
+440,Havacılık,2019-11,6
+441,Tarım / Ziraat,2019-11,5
+442,Hızlı Tüketim Malları,2019-11,11
+443,Orman Ürünleri,2019-11,5
+444,Ofis / Büro Malzemeleri,2019-11,1
+445,Dayanıklı Tüketim Ürünleri,2019-11,0
+446,Hayvancılık,2019-11,2
+447,Eğlence - Kültür - Sanat,2019-11,1
+448,Atık Yönetimi ve Geri Dönüşüm,2019-11,0
+449,Çevre,2019-11,0
+450,Toplam,2019-11,2811
+451,Bilişim,2019-12,808
+452,Üretim / Endüstriyel Ürünler,2019-12,149
+453,Elektrik & Elektronik,2019-12,154
+454,Tekstil,2019-12,115
+455,Otomotiv,2019-12,102
+456,Sağlık,2019-12,120
+457,Hizmet,2019-12,123
+458,Topluluklar,2019-12,100
+459,Telekomünikasyon,2019-12,101
+460,Yapı,2019-12,89
+461,Danışmanlık,2019-12,95
+462,Kimya,2019-12,95
+463,Finans - Ekonomi,2019-12,79
+464,Ticaret,2019-12,61
+465,Diğer,2019-12,66
+466,Gıda,2019-12,66
+467,Eğitim,2019-12,40
+468,Enerji,2019-12,54
+469,Turizm,2019-12,51
+470,Taşımacılık,2019-12,61
+471,Sigortacılık,2019-12,29
+472,Reklam ve Tanıtım,2019-12,26
+473,Maden ve Metal Sanayi,2019-12,36
+474,Perakende,2019-12,34
+475,Medya,2019-12,23
+476,Basım - Yayın,2019-12,19
+477,Mobilya & Aksesuar,2019-12,19
+478,Denizcilik,2019-12,16
+479,Ev Eşyaları,2019-12,12
+480,Güvenlik,2019-12,17
+481,Havacılık,2019-12,13
+482,Tarım / Ziraat,2019-12,2
+483,Hızlı Tüketim Malları,2019-12,7
+484,Orman Ürünleri,2019-12,11
+485,Ofis / Büro Malzemeleri,2019-12,1
+486,Dayanıklı Tüketim Ürünleri,2019-12,1
+487,Hayvancılık,2019-12,4
+488,Eğlence - Kültür - Sanat,2019-12,3
+489,Atık Yönetimi ve Geri Dönüşüm,2019-12,0
+490,Çevre,2019-12,0
+491,Toplam,2019-12,2817
+492,Bilişim,2020-1,877
+493,Üretim / Endüstriyel Ürünler,2020-1,178
+494,Elektrik & Elektronik,2020-1,169
+495,Tekstil,2020-1,129
+496,Otomotiv,2020-1,122
+497,Sağlık,2020-1,150
+498,Hizmet,2020-1,135
+499,Topluluklar,2020-1,107
+500,Telekomünikasyon,2020-1,104
+501,Yapı,2020-1,113
+502,Danışmanlık,2020-1,96
+503,Kimya,2020-1,82
+504,Finans - Ekonomi,2020-1,77
+505,Ticaret,2020-1,77
+506,Diğer,2020-1,65
+507,Gıda,2020-1,60
+508,Eğitim,2020-1,48
+509,Enerji,2020-1,70
+510,Turizm,2020-1,57
+511,Taşımacılık,2020-1,59
+512,Sigortacılık,2020-1,38
+513,Reklam ve Tanıtım,2020-1,50
+514,Maden ve Metal Sanayi,2020-1,40
+515,Perakende,2020-1,21
+516,Medya,2020-1,33
+517,Basım - Yayın,2020-1,25
+518,Mobilya & Aksesuar,2020-1,23
+519,Denizcilik,2020-1,15
+520,Ev Eşyaları,2020-1,9
+521,Güvenlik,2020-1,14
+522,Havacılık,2020-1,7
+523,Tarım / Ziraat,2020-1,10
+524,Hızlı Tüketim Malları,2020-1,6
+525,Orman Ürünleri,2020-1,8
+526,Ofis / Büro Malzemeleri,2020-1,5
+527,Dayanıklı Tüketim Ürünleri,2020-1,1
+528,Hayvancılık,2020-1,2
+529,Eğlence - Kültür - Sanat,2020-1,2
+530,Atık Yönetimi ve Geri Dönüşüm,2020-1,1
+531,Çevre,2020-1,0
+532,Toplam,2020-1,3117
+533,Bilişim,2020-2,798
+534,Üretim / Endüstriyel Ürünler,2020-2,157
+535,Elektrik & Elektronik,2020-2,154
+536,Tekstil,2020-2,152
+537,Otomotiv,2020-2,115
+538,Sağlık,2020-2,173
+539,Hizmet,2020-2,113
+540,Topluluklar,2020-2,108
+541,Telekomünikasyon,2020-2,103
+542,Yapı,2020-2,114
+543,Danışmanlık,2020-2,104
+544,Kimya,2020-2,83
+545,Finans - Ekonomi,2020-2,97
+546,Ticaret,2020-2,81
+547,Diğer,2020-2,56
+548,Gıda,2020-2,53
+549,Eğitim,2020-2,53
+550,Enerji,2020-2,49
+551,Turizm,2020-2,73
+552,Taşımacılık,2020-2,50
+553,Sigortacılık,2020-2,45
+554,Reklam ve Tanıtım,2020-2,35
+555,Maden ve Metal Sanayi,2020-2,35
+556,Perakende,2020-2,37
+557,Medya,2020-2,24
+558,Basım - Yayın,2020-2,22
+559,Mobilya & Aksesuar,2020-2,17
+560,Denizcilik,2020-2,18
+561,Ev Eşyaları,2020-2,10
+562,Güvenlik,2020-2,10
+563,Havacılık,2020-2,4
+564,Tarım / Ziraat,2020-2,9
+565,Hızlı Tüketim Malları,2020-2,9
+566,Orman Ürünleri,2020-2,4
+567,Ofis / Büro Malzemeleri,2020-2,4
+568,Dayanıklı Tüketim Ürünleri,2020-2,1
+569,Hayvancılık,2020-2,0
+570,Eğlence - Kültür - Sanat,2020-2,3
+571,Atık Yönetimi ve Geri Dönüşüm,2020-2,1
+572,Çevre,2020-2,2
+573,Toplam,2020-2,3002
+574,Bilişim,2020-3,687
+575,Üretim / Endüstriyel Ürünler,2020-3,131
+576,Elektrik & Elektronik,2020-3,153
+577,Tekstil,2020-3,111
+578,Otomotiv,2020-3,87
+579,Sağlık,2020-3,115
+580,Hizmet,2020-3,99
+581,Topluluklar,2020-3,82
+582,Telekomünikasyon,2020-3,100
+583,Yapı,2020-3,93
+584,Danışmanlık,2020-3,84
+585,Kimya,2020-3,57
+586,Finans - Ekonomi,2020-3,40
+587,Ticaret,2020-3,48
+588,Diğer,2020-3,25
+589,Gıda,2020-3,56
+590,Eğitim,2020-3,41
+591,Enerji,2020-3,46
+592,Turizm,2020-3,22
+593,Taşımacılık,2020-3,42
+594,Sigortacılık,2020-3,37
+595,Reklam ve Tanıtım,2020-3,36
+596,Maden ve Metal Sanayi,2020-3,28
+597,Perakende,2020-3,25
+598,Medya,2020-3,10
+599,Basım - Yayın,2020-3,23
+600,Mobilya & Aksesuar,2020-3,5
+601,Denizcilik,2020-3,24
+602,Ev Eşyaları,2020-3,18
+603,Güvenlik,2020-3,10
+604,Havacılık,2020-3,6
+605,Tarım / Ziraat,2020-3,7
+606,Hızlı Tüketim Malları,2020-3,4
+607,Orman Ürünleri,2020-3,5
+608,Ofis / Büro Malzemeleri,2020-3,5
+609,Dayanıklı Tüketim Ürünleri,2020-3,2
+610,Hayvancılık,2020-3,2
+611,Eğlence - Kültür - Sanat,2020-3,0
+612,Atık Yönetimi ve Geri Dönüşüm,2020-3,0
+613,Çevre,2020-3,0
+614,Toplam,2020-3,2389
+615,Bilişim,2020-4,317
+616,Üretim / Endüstriyel Ürünler,2020-4,56
+617,Elektrik & Elektronik,2020-4,46
+618,Tekstil,2020-4,25
+619,Otomotiv,2020-4,33
+620,Sağlık,2020-4,48
+621,Hizmet,2020-4,39
+622,Topluluklar,2020-4,35
+623,Telekomünikasyon,2020-4,51
+624,Yapı,2020-4,25
+625,Danışmanlık,2020-4,32
+626,Kimya,2020-4,33
+627,Finans - Ekonomi,2020-4,30
+628,Ticaret,2020-4,16
+629,Diğer,2020-4,18
+630,Gıda,2020-4,19
+631,Eğitim,2020-4,11
+632,Enerji,2020-4,13
+633,Turizm,2020-4,8
+634,Taşımacılık,2020-4,13
+635,Sigortacılık,2020-4,14
+636,Reklam ve Tanıtım,2020-4,8
+637,Maden ve Metal Sanayi,2020-4,10
+638,Perakende,2020-4,3
+639,Medya,2020-4,4
+640,Basım - Yayın,2020-4,4
+641,Mobilya & Aksesuar,2020-4,3
+642,Denizcilik,2020-4,3
+643,Ev Eşyaları,2020-4,0
+644,Güvenlik,2020-4,4
+645,Havacılık,2020-4,1
+646,Tarım / Ziraat,2020-4,3
+647,Hızlı Tüketim Malları,2020-4,2
+648,Orman Ürünleri,2020-4,4
+649,Ofis / Büro Malzemeleri,2020-4,0
+650,Dayanıklı Tüketim Ürünleri,2020-4,0
+651,Hayvancılık,2020-4,2
+652,Eğlence - Kültür - Sanat,2020-4,0
+653,Atık Yönetimi ve Geri Dönüşüm,2020-4,0
+654,Çevre,2020-4,0
+655,Toplam,2020-4,939
+656,Bilişim,2020-5,478
+657,Üretim / Endüstriyel Ürünler,2020-5,91
+658,Elektrik & Elektronik,2020-5,65
+659,Tekstil,2020-5,71
+660,Otomotiv,2020-5,34
+661,Sağlık,2020-5,87
+662,Hizmet,2020-5,52
+663,Topluluklar,2020-5,49
+664,Telekomünikasyon,2020-5,75
+665,Yapı,2020-5,62
+666,Danışmanlık,2020-5,58
+667,Kimya,2020-5,44
+668,Finans - Ekonomi,2020-5,38
+669,Ticaret,2020-5,44
+670,Diğer,2020-5,43
+671,Gıda,2020-5,26
+672,Eğitim,2020-5,28
+673,Enerji,2020-5,18
+674,Turizm,2020-5,17
+675,Taşımacılık,2020-5,20
+676,Sigortacılık,2020-5,20
+677,Reklam ve Tanıtım,2020-5,19
+678,Maden ve Metal Sanayi,2020-5,13
+679,Perakende,2020-5,14
+680,Medya,2020-5,7
+681,Basım - Yayın,2020-5,14
+682,Mobilya & Aksesuar,2020-5,9
+683,Denizcilik,2020-5,4
+684,Ev Eşyaları,2020-5,21
+685,Güvenlik,2020-5,9
+686,Havacılık,2020-5,1
+687,Tarım / Ziraat,2020-5,2
+688,Hızlı Tüketim Malları,2020-5,4
+689,Orman Ürünleri,2020-5,5
+690,Ofis / Büro Malzemeleri,2020-5,1
+691,Dayanıklı Tüketim Ürünleri,2020-5,0
+692,Hayvancılık,2020-5,3
+693,Eğlence - Kültür - Sanat,2020-5,0
+694,Atık Yönetimi ve Geri Dönüşüm,2020-5,0
+695,Çevre,2020-5,0
+696,Toplam,2020-5,1557
+697,Bilişim,2020-6,1073
+698,Üretim / Endüstriyel Ürünler,2020-6,137
+699,Elektrik & Elektronik,2020-6,124
+700,Tekstil,2020-6,120
+701,Otomotiv,2020-6,83
+702,Sağlık,2020-6,102
+703,Hizmet,2020-6,111
+704,Topluluklar,2020-6,80
+705,Telekomünikasyon,2020-6,109
+706,Yapı,2020-6,91
+707,Danışmanlık,2020-6,86
+708,Kimya,2020-6,70
+709,Finans - Ekonomi,2020-6,40
+710,Ticaret,2020-6,59
+711,Diğer,2020-6,44
+712,Gıda,2020-6,54
+713,Eğitim,2020-6,51
+714,Enerji,2020-6,46
+715,Turizm,2020-6,19
+716,Taşımacılık,2020-6,33
+717,Sigortacılık,2020-6,32
+718,Reklam ve Tanıtım,2020-6,47
+719,Maden ve Metal Sanayi,2020-6,24
+720,Perakende,2020-6,26
+721,Medya,2020-6,14
+722,Basım - Yayın,2020-6,12
+723,Mobilya & Aksesuar,2020-6,13
+724,Denizcilik,2020-6,12
+725,Ev Eşyaları,2020-6,19
+726,Güvenlik,2020-6,5
+727,Havacılık,2020-6,2
+728,Tarım / Ziraat,2020-6,11
+729,Hızlı Tüketim Malları,2020-6,6
+730,Orman Ürünleri,2020-6,3
+731,Ofis / Büro Malzemeleri,2020-6,4
+732,Dayanıklı Tüketim Ürünleri,2020-6,2
+733,Hayvancılık,2020-6,4
+734,Eğlence - Kültür - Sanat,2020-6,1
+735,Atık Yönetimi ve Geri Dönüşüm,2020-6,0
+736,Çevre,2020-6,1
+737,Toplam,2020-6,2795
+738,Bilişim,2020-7,1097
+739,Üretim / Endüstriyel Ürünler,2020-7,129
+740,Elektrik & Elektronik,2020-7,104
+741,Tekstil,2020-7,110
+742,Otomotiv,2020-7,96
+743,Sağlık,2020-7,90
+744,Hizmet,2020-7,107
+745,Topluluklar,2020-7,107
+746,Telekomünikasyon,2020-7,100
+747,Yapı,2020-7,98
+748,Danışmanlık,2020-7,73
+749,Kimya,2020-7,76
+750,Finans - Ekonomi,2020-7,45
+751,Ticaret,2020-7,57
+752,Diğer,2020-7,29
+753,Gıda,2020-7,46
+754,Eğitim,2020-7,44
+755,Enerji,2020-7,39
+756,Turizm,2020-7,13
+757,Taşımacılık,2020-7,25
+758,Sigortacılık,2020-7,27
+759,Reklam ve Tanıtım,2020-7,33
+760,Maden ve Metal Sanayi,2020-7,33
+761,Perakende,2020-7,21
+762,Medya,2020-7,14
+763,Basım - Yayın,2020-7,32
+764,Mobilya & Aksesuar,2020-7,18
+765,Denizcilik,2020-7,12
+766,Ev Eşyaları,2020-7,14
+767,Güvenlik,2020-7,7
+768,Havacılık,2020-7,7
+769,Tarım / Ziraat,2020-7,7
+770,Hızlı Tüketim Malları,2020-7,4
+771,Orman Ürünleri,2020-7,9
+772,Ofis / Büro Malzemeleri,2020-7,0
+773,Dayanıklı Tüketim Ürünleri,2020-7,2
+774,Hayvancılık,2020-7,1
+775,Eğlence - Kültür - Sanat,2020-7,0
+776,Atık Yönetimi ve Geri Dönüşüm,2020-7,2
+777,Çevre,2020-7,0
+778,Toplam,2020-7,2751
+779,Bilişim,2020-8,853
+780,Üretim / Endüstriyel Ürünler,2020-8,146
+781,Elektrik & Elektronik,2020-8,142
+782,Tekstil,2020-8,115
+783,Otomotiv,2020-8,88
+784,Sağlık,2020-8,95
+785,Hizmet,2020-8,100
+786,Topluluklar,2020-8,89
+787,Telekomünikasyon,2020-8,114
+788,Yapı,2020-8,94
+789,Danışmanlık,2020-8,70
+790,Kimya,2020-8,80
+791,Finans - Ekonomi,2020-8,63
+792,Ticaret,2020-8,54
+793,Diğer,2020-8,47
+794,Gıda,2020-8,54
+795,Eğitim,2020-8,52
+796,Enerji,2020-8,50
+797,Turizm,2020-8,28
+798,Taşımacılık,2020-8,37
+799,Sigortacılık,2020-8,32
+800,Reklam ve Tanıtım,2020-8,44
+801,Maden ve Metal Sanayi,2020-8,30
+802,Perakende,2020-8,26
+803,Medya,2020-8,15
+804,Basım - Yayın,2020-8,27
+805,Mobilya & Aksesuar,2020-8,21
+806,Denizcilik,2020-8,7
+807,Ev Eşyaları,2020-8,23
+808,Güvenlik,2020-8,19
+809,Havacılık,2020-8,8
+810,Tarım / Ziraat,2020-8,6
+811,Hızlı Tüketim Malları,2020-8,9
+812,Orman Ürünleri,2020-8,14
+813,Ofis / Büro Malzemeleri,2020-8,8
+814,Dayanıklı Tüketim Ürünleri,2020-8,0
+815,Hayvancılık,2020-8,3
+816,Eğlence - Kültür - Sanat,2020-8,1
+817,Atık Yönetimi ve Geri Dönüşüm,2020-8,1
+818,Çevre,2020-8,0
+819,Toplam,2020-8,2675
+820,Bilişim,2020-9,868
+821,Üretim / Endüstriyel Ürünler,2020-9,173
+822,Elektrik & Elektronik,2020-9,123
+823,Tekstil,2020-9,139
+824,Otomotiv,2020-9,116
+825,Sağlık,2020-9,115
+826,Hizmet,2020-9,125
+827,Topluluklar,2020-9,126
+828,Telekomünikasyon,2020-9,117
+829,Yapı,2020-9,104
+830,Danışmanlık,2020-9,66
+831,Kimya,2020-9,74
+832,Finans - Ekonomi,2020-9,70
+833,Ticaret,2020-9,75
+834,Diğer,2020-9,62
+835,Gıda,2020-9,62
+836,Eğitim,2020-9,57
+837,Enerji,2020-9,58
+838,Turizm,2020-9,30
+839,Taşımacılık,2020-9,40
+840,Sigortacılık,2020-9,50
+841,Reklam ve Tanıtım,2020-9,35
+842,Maden ve Metal Sanayi,2020-9,44
+843,Perakende,2020-9,20
+844,Medya,2020-9,20
+845,Basım - Yayın,2020-9,14
+846,Mobilya & Aksesuar,2020-9,17
+847,Denizcilik,2020-9,18
+848,Ev Eşyaları,2020-9,15
+849,Güvenlik,2020-9,15
+850,Havacılık,2020-9,7
+851,Tarım / Ziraat,2020-9,13
+852,Hızlı Tüketim Malları,2020-9,6
+853,Orman Ürünleri,2020-9,9
+854,Ofis / Büro Malzemeleri,2020-9,7
+855,Dayanıklı Tüketim Ürünleri,2020-9,2
+856,Hayvancılık,2020-9,2
+857,Eğlence - Kültür - Sanat,2020-9,1
+858,Atık Yönetimi ve Geri Dönüşüm,2020-9,0
+859,Çevre,2020-9,0
+860,Toplam,2020-9,2927
+861,Bilişim,2020-10,956
+862,Üretim / Endüstriyel Ürünler,2020-10,194
+863,Elektrik & Elektronik,2020-10,152
+864,Tekstil,2020-10,163
+865,Otomotiv,2020-10,139
+866,Sağlık,2020-10,133
+867,Hizmet,2020-10,139
+868,Topluluklar,2020-10,123
+869,Telekomünikasyon,2020-10,113
+870,Yapı,2020-10,110
+871,Danışmanlık,2020-10,64
+872,Kimya,2020-10,89
+873,Finans - Ekonomi,2020-10,58
+874,Ticaret,2020-10,96
+875,Diğer,2020-10,42
+876,Gıda,2020-10,57
+877,Eğitim,2020-10,51
+878,Enerji,2020-10,54
+879,Turizm,2020-10,31
+880,Taşımacılık,2020-10,63
+881,Sigortacılık,2020-10,34
+882,Reklam ve Tanıtım,2020-10,39
+883,Maden ve Metal Sanayi,2020-10,42
+884,Perakende,2020-10,34
+885,Medya,2020-10,28
+886,Basım - Yayın,2020-10,31
+887,Mobilya & Aksesuar,2020-10,21
+888,Denizcilik,2020-10,15
+889,Ev Eşyaları,2020-10,21
+890,Güvenlik,2020-10,12
+891,Havacılık,2020-10,9
+892,Tarım / Ziraat,2020-10,11
+893,Hızlı Tüketim Malları,2020-10,9
+894,Orman Ürünleri,2020-10,3
+895,Ofis / Büro Malzemeleri,2020-10,2
+896,Dayanıklı Tüketim Ürünleri,2020-10,5
+897,Hayvancılık,2020-10,4
+898,Eğlence - Kültür - Sanat,2020-10,1
+899,Atık Yönetimi ve Geri Dönüşüm,2020-10,1
+900,Çevre,2020-10,1
+901,Toplam,2020-10,3180
+902,Bilişim,2020-11,933
+903,Üretim / Endüstriyel Ürünler,2020-11,233
+904,Elektrik & Elektronik,2020-11,183
+905,Tekstil,2020-11,143
+906,Otomotiv,2020-11,119
+907,Sağlık,2020-11,133
+908,Hizmet,2020-11,147
+909,Topluluklar,2020-11,142
+910,Telekomünikasyon,2020-11,157
+911,Yapı,2020-11,107
+912,Danışmanlık,2020-11,95
+913,Kimya,2020-11,88
+914,Finans - Ekonomi,2020-11,62
+915,Ticaret,2020-11,71
+916,Diğer,2020-11,78
+917,Gıda,2020-11,68
+918,Eğitim,2020-11,58
+919,Enerji,2020-11,57
+920,Turizm,2020-11,36
+921,Taşımacılık,2020-11,61
+922,Sigortacılık,2020-11,48
+923,Reklam ve Tanıtım,2020-11,30
+924,Maden ve Metal Sanayi,2020-11,26
+925,Perakende,2020-11,25
+926,Medya,2020-11,24
+927,Basım - Yayın,2020-11,23
+928,Mobilya & Aksesuar,2020-11,17
+929,Denizcilik,2020-11,13
+930,Ev Eşyaları,2020-11,14
+931,Güvenlik,2020-11,16
+932,Havacılık,2020-11,5
+933,Tarım / Ziraat,2020-11,11
+934,Hızlı Tüketim Malları,2020-11,1
+935,Orman Ürünleri,2020-11,5
+936,Ofis / Büro Malzemeleri,2020-11,3
+937,Dayanıklı Tüketim Ürünleri,2020-11,5
+938,Hayvancılık,2020-11,0
+939,Eğlence - Kültür - Sanat,2020-11,1
+940,Atık Yönetimi ve Geri Dönüşüm,2020-11,0
+941,Çevre,2020-11,0
+942,Toplam,2020-11,3261
+943,Bilişim,2020-12,947
+944,Üretim / Endüstriyel Ürünler,2020-12,230
+945,Elektrik & Elektronik,2020-12,178
+946,Tekstil,2020-12,152
+947,Otomotiv,2020-12,157
+948,Sağlık,2020-12,124
+949,Hizmet,2020-12,185
+950,Topluluklar,2020-12,138
+951,Telekomünikasyon,2020-12,135
+952,Yapı,2020-12,135
+953,Danışmanlık,2020-12,109
+954,Kimya,2020-12,103
+955,Finans - Ekonomi,2020-12,62
+956,Ticaret,2020-12,90
+957,Diğer,2020-12,83
+958,Gıda,2020-12,59
+959,Eğitim,2020-12,59
+960,Enerji,2020-12,64
+961,Turizm,2020-12,48
+962,Taşımacılık,2020-12,57
+963,Sigortacılık,2020-12,50
+964,Reklam ve Tanıtım,2020-12,28
+965,Maden ve Metal Sanayi,2020-12,38
+966,Perakende,2020-12,36
+967,Medya,2020-12,21
+968,Basım - Yayın,2020-12,26
+969,Mobilya & Aksesuar,2020-12,21
+970,Denizcilik,2020-12,22
+971,Ev Eşyaları,2020-12,25
+972,Güvenlik,2020-12,18
+973,Havacılık,2020-12,16
+974,Tarım / Ziraat,2020-12,9
+975,Hızlı Tüketim Malları,2020-12,5
+976,Orman Ürünleri,2020-12,9
+977,Ofis / Büro Malzemeleri,2020-12,1
+978,Dayanıklı Tüketim Ürünleri,2020-12,2
+979,Hayvancılık,2020-12,4
+980,Eğlence - Kültür - Sanat,2020-12,1
+981,Atık Yönetimi ve Geri Dönüşüm,2020-12,1
+982,Çevre,2020-12,0
+983,Toplam,2020-12,3482
