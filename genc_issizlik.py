@@ -105,7 +105,7 @@ if sidebar_select == 'Öğrenci Kariyer Planı':
             st.markdown("[Bu](https://www.kariyer.net/pozisyonlar) siteden bilgi alabilirsiniz.")
 
     with row2_2:
-        st.subheader('Bu bölümden mezun kişiler hangi pozisyonlara başvuruyor?')
+        st.subheader('Bu bölümden mezun kişilerin arandığı iş ilanlarında en çok hangi pozisyonlara başvuru yapılıyor?')
         grafik = filtered.groupby(by=['Pozisyon'])[['Pozisyon','Başvuru Sayısı']].sum().reset_index().sort_values(by='Başvuru Sayısı', ascending =False)
         fig = px.bar(grafik[0:10], y = 'Pozisyon', x = 'Başvuru Sayısı')
         fig.update_layout(yaxis=dict(autorange="reversed"))
