@@ -95,7 +95,7 @@ if sidebar_select == 'Öğrenci Kariyer Planı':
     row2_1, row2_2 = st.beta_columns((1, 1))
     
     with row2_1:
-        st.subheader('Bu bölümden mezun kişiler hangi pozisyonlar için aranıyor?')
+        st.subheader('Bu bölümden mezun kişiler en çok hangi pozisyonlar için aranıyor?')
         grafik = filtered['Pozisyon'].value_counts().to_frame().reset_index().rename(columns={'index': 'Pozisyon', 'Pozisyon':'İlan Sayısı'}).sort_values(by='İlan Sayısı', ascending=False)
         fig = px.bar(grafik[0:10], x = 'İlan Sayısı', y = 'Pozisyon')
         fig.update_layout(yaxis=dict(autorange="reversed"))
