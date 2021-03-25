@@ -895,7 +895,7 @@ if sidebar_select == 'Trend':
     st.markdown(' ') 
     st.header('Aranan Pozisyon Sınıfları / Başvurulan Pozisyon Sınıfları')
     st.markdown('')
-    st.markdown('Seçilen yıla göre en çok ilanın yayınlandığı pozisyon sınıflarını ve en çok başvurunun yapıldığı pozisyon sınıflarını görüntüleyebilirsiniz. "En Çok Başvuru Yapılan Pozisyon Sınıfları" grafiğindeki rakamlar bir ilana başvuran kişi sayısını göstermektedir.')
+    st.markdown('Seçilen yıla göre en çok ilanın yayınlandığı pozisyon sınıflarını ve en çok başvurunun yapıldığı pozisyon sınıflarını görüntüleyebilirsiniz. "En Çok Başvuru Yapılan Pozisyon Sınıfları" grafiğindeki rakamlar ilana başvuran kişi sayısının ilan sayısına oranını göstermektedir.')
     
     pozisyon_sınıf = pd.read_csv('pozisyon_sınıf.csv', index_col = 0)
     
